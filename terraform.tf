@@ -1,3 +1,5 @@
+#to provide individual network in terraform.
+
 provider "aws"{
   access_key = ""
   secret_key = ""
